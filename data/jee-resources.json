@@ -1,0 +1,1608 @@
+{
+  "units-and-measurements": {
+    "name": "Units and Measurements",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "motion-in-one-dimension": {
+    "name": "Motion in One Dimension",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "motion-in-two-dimensions": {
+    "name": "Motion in Two Dimensions",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "laws-of-motion": {
+    "name": "Laws of Motion",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  }
+  ,
+  "work-energy-power": {
+    "name": "Work, Energy and Power",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "center-of-mass-and-collision": {
+    "name": "Center of Mass and Collision",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "rotational-motion": {
+    "name": "Rotational Motion",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "gravitation": {
+    "name": "Gravitation",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "properties-of-matter": {
+    "name": "Properties of Matter",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "thermodynamics": {
+    "name": "Thermodynamics",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "kinetic-theory-of-gases": {
+    "name": "Kinetic Theory of Gases",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "oscillations-and-waves": {
+    "name": "Oscillations and Waves",
+    "subject": "Physics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "electrostatics": {
+    "name": "Electrostatics",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  }
+  ,
+  "capacitance": {
+    "name": "Capacitance",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "current-electricity": {
+    "name": "Current Electricity",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "magnetic-effects-of-current": {
+    "name": "Magnetic Effects of Current",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "magnetism-and-matter": {
+    "name": "Magnetism and Matter",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "electromagnetic-induction": {
+    "name": "Electromagnetic Induction",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "alternating-current": {
+    "name": "Alternating Current",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "electromagnetic-waves": {
+    "name": "Electromagnetic Waves",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "ray-optics": {
+    "name": "Ray Optics and Optical Instruments",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "wave-optics": {
+    "name": "Wave Optics",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "modern-physics": {
+    "name": "Modern Physics",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "semiconductor-electronics": {
+    "name": "Semiconductor Electronics",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+
+  "communication-system": {
+    "name": "Communication System",
+    "subject": "Physics",
+    "class": "12",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Physics Wallah",
+        "link": "https://www.youtube.com/@PhysicsWallah"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Eduniti",
+        "link": "https://www.youtube.com/@Eduniti"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Physics Galaxy",
+        "link": "https://www.physicsgalaxy.com"
+      }
+    ]
+  },
+  "general-organic-chemistry": {
+  "name": "General Organic Chemistry (GOC)",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"isomerism": {
+  "name": "Isomerism",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"hydrocarbons": {
+  "name": "Hydrocarbons",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"haloalkanes-and-haloarenes": {
+  "name": "Haloalkanes and Haloarenes",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"alcohols-phenols-and-ethers": {
+  "name": "Alcohols, Phenols and Ethers",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"aldehydes-ketones-and-carboxylic-acids": {
+  "name": "Aldehydes, Ketones and Carboxylic Acids",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"amines": {
+  "name": "Amines",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"biomolecules": {
+  "name": "Biomolecules",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"polymers": {
+  "name": "Polymers",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"chemistry-in-everyday-life": {
+  "name": "Chemistry in Everyday Life",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Sachin Rana",
+      "link": "https://www.youtube.com/@SachinRana"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+"some-basic-concepts-of-chemistry": {
+  "name": "Some Basic Concepts of Chemistry",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"classification-of-elements-and-periodicity": {
+  "name": "Classification of Elements and Periodicity in Properties",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"chemical-bonding": {
+  "name": "Chemical Bonding and Molecular Structure",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"hydrogen": {
+  "name": "Hydrogen",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"s-block-elements": {
+  "name": "s-Block Elements",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"p-block-elements": {
+  "name": "p-Block Elements",
+  "subject": "Chemistry",
+  "class": "11/12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"environmental-chemistry": {
+  "name": "Environmental Chemistry",
+  "subject": "Chemistry",
+  "class": "11",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"d-and-f-block-elements": {
+  "name": "d and f Block Elements",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"coordination-compounds": {
+  "name": "Coordination Compounds",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+"metallurgy": {
+  "name": "General Principles and Processes of Isolation of Elements (Metallurgy)",
+  "subject": "Chemistry",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "VJ Sir",
+      "link": "https://www.youtube.com/@VJSir"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Bharat Panchal",
+      "link": "https://www.youtube.com/@BharatPanchal"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Physics Wallah Notes",
+      "link": "https://www.pw.live"
+    }
+  ]
+},
+
+  "sets-relations-and-functions": {
+    "name": "Sets, Relations and Functions",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "trigonometric-functions": {
+    "name": "Trigonometric Functions",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "complex-numbers": {
+    "name": "Complex Numbers and Quadratic Equations",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "sequence-and-series": {
+    "name": "Sequence and Series",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "permutations-and-combinations": {
+    "name": "Permutations and Combinations",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "binomial-theorem": {
+    "name": "Binomial Theorem",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "straight-lines": {
+    "name": "Straight Lines",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "conic-sections": {
+    "name": "Conic Sections",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "limits-and-derivatives": {
+    "name": "Limits and Derivatives",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "statistics": {
+    "name": "Statistics",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "mathematical-reasoning": {
+    "name": "Mathematical Reasoning",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+
+  "probability": {
+    "name": "Probability",
+    "subject": "Mathematics",
+    "class": "11",
+    "resources": [
+      {
+        "title": "Theory Lectures",
+        "teacher": "Mohit Tyagi",
+        "link": "https://www.youtube.com/@MohitTyagi"
+      },
+      {
+        "title": "PYQ Practice",
+        "teacher": "Mathongo",
+        "link": "https://www.youtube.com/@Mathongo"
+      },
+      {
+        "title": "Short Notes",
+        "teacher": "Allen Notes",
+        "link": "https://allen.ac.in"
+      }
+    ]
+  },
+  "relations-and-functions": {
+  "name": "Relations and Functions",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"inverse-trigonometric-functions": {
+  "name": "Inverse Trigonometric Functions",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"matrices": {
+  "name": "Matrices",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"determinants": {
+  "name": "Determinants",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"continuity-and-differentiability": {
+  "name": "Continuity and Differentiability",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"applications-of-derivatives": {
+  "name": "Applications of Derivatives",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"integrals": {
+  "name": "Integrals (Indefinite and Definite)",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"applications-of-integrals": {
+  "name": "Applications of Integrals",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"differential-equations": {
+  "name": "Differential Equations",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"vector-algebra": {
+  "name": "Vector Algebra",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"three-dimensional-geometry": {
+  "name": "Three Dimensional Geometry",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"linear-programming": {
+  "name": "Linear Programming",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+},
+
+"probability-class-12": {
+  "name": "Probability",
+  "subject": "Mathematics",
+  "class": "12",
+  "resources": [
+    {
+      "title": "Theory Lectures",
+      "teacher": "Mohit Tyagi",
+      "link": "https://www.youtube.com/@MohitTyagi"
+    },
+    {
+      "title": "PYQ Practice",
+      "teacher": "Mathongo",
+      "link": "https://www.youtube.com/@Mathongo"
+    },
+    {
+      "title": "Short Notes",
+      "teacher": "Allen Notes",
+      "link": "https://allen.ac.in"
+    }
+  ]
+}
+}

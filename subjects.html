@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OpenJEE Subjects</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="images/logo.png">
+</head>
+
+<body>
+
+<section class="subjects">
+
+<a href="index.html" class="back">
+← Back
+</a>
+
+<h2 id="subjectTitle">
+    <p id="chapterCount"></p>
+Loading...
+</h2>
+<div class="filters">
+
+    <button onclick="filterChapters('all')">
+        All
+    </button>
+
+    <button onclick="filterChapters('11')">
+        Class 11
+    </button>
+
+    <button onclick="filterChapters('12')">
+        Class 12
+    </button>
+
+</div>
+
+
+<div class="cards" id="chapterContainer">
+</div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>
