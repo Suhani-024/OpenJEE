@@ -11,7 +11,7 @@ if (document.getElementById("chapterTitle")) {
     const params = new URLSearchParams(window.location.search);
     const chapter = params.get("chapter");
 
-    fetch("data/jee-resources.json")
+    fetch("https://openjee-backend.onrender.com/api/chapters")
         .then(response => response.json())
         .then(data => {
 
@@ -50,7 +50,7 @@ chapterData.resources.forEach(resource => {
             </p>
 
             <p>
-                🎓 Class: ${chapterData.class}
+                🎓 Class: ${chapterData.classLevel}
             </p>
 
             <p class="open-resource">
@@ -88,7 +88,7 @@ async function searchChapter() {
     try {
 
         const response =
-            await fetch("data/jee-resources.json");
+            await fetch("https://openjee-backend.onrender.com/api/chapters");
 
         const data = await response.json();
 
@@ -159,24 +159,14 @@ async function loadSubject() {
     try {
 
         const response =
-            await fetch("data/jee-resources.json");
+            await fetch("https://openjee-backend.onrender.com/api/chapters");
 
         const data =
             await response.json();
 
-          allChapters = [];
-
-for (let key in data) {
-
-    if (data[key].subject === subject) {
-
-        allChapters.push({
-            key: key,
-            ...data[key]
-        });
-
-    }
-}
+          allChapters = data.filter(
+    chapter => chapter.subject === subject
+);
 
 document.getElementById("chapterCount").innerText =
     allChapters.length + " Chapters Available";
@@ -217,20 +207,20 @@ function filterChapters(classNumber) {
 
     allChapters.forEach(chapter => {
 
-        if (
-            classNumber === "all" ||
-            chapter.class.includes(classNumber)
-        ) {
+       if (
+    classNumber === "all" ||
+    chapter.classLevel === classNumber
+) {
 
             container.innerHTML += `
             
-            <a href="chapter.html?chapter=${chapter.key}" 
+             <a href="chapter.html?chapter=${chapter._id}"
                class="card">
 
                 <h3>${chapter.name}</h3>
 
                 <p>
-                    Class ${chapter.class}
+                    Class ${chapter.classLevel}
                 </p>
 
             </a>
